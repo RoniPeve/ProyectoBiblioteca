@@ -1,0 +1,4 @@
+copiar lo que se encuentra en la carpeta BD
+y pegarlo en C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA 
+luego cambiar el nombre del servidor en appconfig
+

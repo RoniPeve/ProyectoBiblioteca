@@ -1,0 +1,6 @@
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\datos\bin\Debug\datos.dll
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\datos\bin\Debug\datos.pdb
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\datos\obj\Debug\datos.dll
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\datos\obj\Debug\datos.pdb
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\datos\obj\Debug\datos.csprojAssemblyReference.cache
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\datos\obj\Debug\datos.csproj.CoreCompileInputs.cache

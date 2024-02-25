@@ -1,0 +1,9 @@
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\bin\Debug\conexion.dll
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\bin\Debug\conexion.pdb
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\obj\Debug\conexion.dll
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\obj\Debug\conexion.pdb
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\bin\Debug\datos.dll
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\bin\Debug\datos.pdb
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\obj\Debug\conexion.csprojAssemblyReference.cache
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\obj\Debug\conexion.csproj.CopyComplete
+C:\Users\RONI\Documents\Visual Studio 2015\Projects\ProyectoBiblioteca\conexion\obj\Debug\conexion.csproj.CoreCompileInputs.cache
